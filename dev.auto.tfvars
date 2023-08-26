@@ -4,17 +4,13 @@
 
 
 # Resource Group for cognitive serviced
-cognitive_resgroup = "sbx-rg-cognitive-services"
+cognitive_resgroup = "<resource-groupname>"
 
 # Default location for development
-default_location = "westeurope"
-
-# Custom vision resource
-custom_vision_name = "sbx-eu-customvision"
-
+default_location = "<region>"
 
 # Own IP
-own_ip_address = "37.201.196.119"
+own_ip_address = "<own-external-ip"
 
 
 

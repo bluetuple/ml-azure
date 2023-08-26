@@ -1,6 +1,5 @@
 # subscription variables (to be able to access resources from different subs)
 
-
 variable "default_location" {
   type        = string
   description = "default location used for managemtn assets (mostly westeurope)"
@@ -10,11 +9,6 @@ variable "default_location" {
 variable "cognitive_resgroup" {
   type        = string
   description = "The resurcegroup for all cognitive services"
-}
-
-variable "custom_vision_name" {
-  type        = string
-  description = "Name for custom vision service"
 }
 
 
