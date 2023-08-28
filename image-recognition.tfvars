@@ -1,7 +1,5 @@
-# file for setting values to variables for dev environment
-# auto.tfvars file to be used to set values for vaiables defined in a variables.tf 8or any other .tf file
-# any variable definition in same scope defined by variable "xyz" {} can be initialized here
-
+# image-recognition.tvfars
+# Within this file you can set individua values for the variables used in the terraform declarations
 
 # Resource Group for cognitive serviced
 cognitive_resgroup = "<resource-groupname>"
