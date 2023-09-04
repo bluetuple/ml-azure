@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 **/.DS_Store
-=======
-.DS*
-**/.DS*
 **/bin/*
 **/lib/*
 **/include/*
@@ -16,4 +12,5 @@
 **/.pytest_cache/*
 **/mlruns/*
 **/.terraform*
->>>>>>> fc40d20 (added images)
+.gitignore
+
