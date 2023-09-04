@@ -1,1 +1,19 @@
+<<<<<<< HEAD
 **/.DS_Store
+=======
+.DS*
+**/.DS*
+**/bin/*
+**/lib/*
+**/include/*
+**/share/*
+**/.secrets
+**/.env
+**/.ipynb_checkpoints/*
+**/.venv/*
+**/etc/*
+**/__pycache__/*
+**/.pytest_cache/*
+**/mlruns/*
+**/.terraform*
+>>>>>>> fc40d20 (added images)
